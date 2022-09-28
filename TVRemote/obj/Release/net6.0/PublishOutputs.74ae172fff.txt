@@ -1,0 +1,5 @@
+C:\Users\Money\Desktop\publish\TVRemote.exe
+C:\Users\Money\Desktop\publish\TVRemote.dll
+C:\Users\Money\Desktop\publish\TVRemote.deps.json
+C:\Users\Money\Desktop\publish\TVRemote.runtimeconfig.json
+C:\Users\Money\Desktop\publish\TVRemote.pdb
