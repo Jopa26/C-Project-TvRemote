@@ -194,20 +194,6 @@ namespace TVRemote
 
 
 
-/*
-dont forget to use these functionsPower On / Off
-Increase / Decrease Volume
-Increase / Decrease Channel
-Mute
-Change Channel
-Smart Menu
-Settings
 
-+ I added:
-
-power
-
-
-*/
 
 
