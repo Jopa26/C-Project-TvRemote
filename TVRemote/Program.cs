@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+
 //This is the main program where it starts.
 
 //First we get input for the TV model.
